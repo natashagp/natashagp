@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natashagp&theme=dracula)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=natashagp&theme=dracula)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=natashagp)](https://github.com/natashagp/github-readme-stats)
