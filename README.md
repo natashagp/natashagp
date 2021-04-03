@@ -21,8 +21,6 @@
 
 </p>
 
-<br/>
-
 <h2>
   🚀💻 Technologies & Tools
 </h2>
