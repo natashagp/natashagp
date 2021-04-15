@@ -66,7 +66,7 @@
 ## Education
 
 - 📖  **Computer Engineering**\
-📆  2015 - 2020\
+📆  2016 - 2020\
 📍 **FIAP (Paulista School of Informatics and Administration)** - São Paulo, Brazil
 
 ## Experience
