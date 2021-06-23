@@ -2,10 +2,6 @@
   Hi there 👋 I'm Natasha 👩🏻‍💻
 </h1>
 
-<p align='left'>
-  <a href="#"><img src="https://vistr.dev/badge?repo=natashagp"></a>
-</p>
-
 <p>A Mobile and Front-end Developer from São Paulo, Brazil. </p>
 <p>Currently in love with Flutter and Dart. </p>
 <p>I'm learning Flutter at the moment. </p>
