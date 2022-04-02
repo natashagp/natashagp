@@ -66,12 +66,19 @@
 📍 **FIAP (Paulista School of Informatics and Administration)** - São Paulo, Brazil
 
 ## Experience
-
+  
 <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 - 👩🏻‍💻 **Flutter Developer**\
 📆 2021 - current\
+📍 **Avenue** - Miami, Florida, USA
+
+<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+- 👩🏻‍💻 **Flutter Developer**\
+📆 2021 - 2021\
 📍 **Confere Cartões** - São Paulo, Brazil
 
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
