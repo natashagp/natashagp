@@ -2,4 +2,4 @@
 
 Developer from São Paulo, Brazil.
 
-Some development projects and codes were migrated to Codeberg - https://codeberg.org/natashagp
+Most development projects and codes were migrated to Codeberg - https://codeberg.org/natashagp
