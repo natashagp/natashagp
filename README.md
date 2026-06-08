@@ -2,4 +2,4 @@
 
 Developer from São Paulo, Brazil.
 
-All repositories were migrated to Codeberg - https://codeberg.org/natashagp
+All repositories are also in Codeberg - https://codeberg.org/natashagp
